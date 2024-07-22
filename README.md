@@ -13,6 +13,10 @@ This is a project to apply machine learning techniques for trading in the MMO ma
 - *Italic Text* to highlight key terms.
 - `Inline code` to show code snippets.
 
+This   | is    | a
+---    | ---   | ---
+simple | table | example
+
 ```python
 # Code block with syntax highlighting
 def example():
