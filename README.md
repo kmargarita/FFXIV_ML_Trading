@@ -3,8 +3,6 @@
 
 ML for trading in MMO markets: Final Fantasy XIV
 
-![Gold Ore Item Icon](https://xivapi.com/i/021000/021212.png)
-
 ## Description
 This is a project to apply machine learning techniques for trading in the MMO market of Final Fantasy XIV.
 
