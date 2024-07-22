@@ -17,3 +17,13 @@ This is a project to apply machine learning techniques for trading in the MMO ma
 # Code block with syntax highlighting
 def example():
     return "Hello, World!"
+
+```
+
+# Table of Contents
+
+1. [My first title](#my-first-title)
+2. [My second title](#my-second-title)
+## My first title
+Some text.
+## My second title
